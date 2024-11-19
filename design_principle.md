@@ -57,3 +57,17 @@ Future iterations could include a secondary dashboard tailored to laboratory sta
 - Enable tracking of specimens over extended periods.  
 - Enhance staff decision-making with detailed journey insights.  
 Such innovations would further optimize specimen management and turnaround times.  
+
+# References  
+
+- **Bernardita Calzon (2023).** BI Blog | Data Visualization & Analytics Blog | datapine.  
+  [Available at](https://www.datapine.com/blog/dashboard-design-principles-and-best-practices/).  
+
+- **Mads Soegaard (2022).** Visual Hierarchy: Organizing content to follow natural eye movement patterns.  
+  [Available at](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns).  
+
+- **Malnik, J. (2022).** Why Are Dashboards So Important for Your Business? 8 Ways They Help Improve Business Performance | Databox Blog.  
+  [Available at](https://databox.com/why-are-dashboards-important).  
+
+- **Priddy, S. (2021).** Best practices for building effective dashboards. Tableau.  
+  [Available at](https://www.tableau.com/blog/best-practices-for-building-effective-dashboards?cq_cmp=20663578515&cq_net=x&cq_plac=&gad=1&gclid=CjwKCAjwnOipBhBQEiwACyGLunD1gVvg5KarHaMgTfYjAELi1YgRe28kmpDWaO-xLpcsKnv-JmIdkxoCcdYQAvD_BwE&gclsrc=aw.ds) [Accessed 27 Oct. 2023].  
