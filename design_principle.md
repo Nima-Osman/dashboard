@@ -1,9 +1,9 @@
 # Design Principles Overview: A User-Friendly Dashboard for Specimen Tracking  
 
-## 1 User Identification  
+## User Identification  
 The primary users of this dashboard are **managerial staff**, though its design ensures accessibility and usability for all laboratory employees. This inclusive approach influenced choices in layout, structure, and data visualization, catering to diverse user needs.  
 
-## 2 Data Selection  
+## Data Selection  
 Selecting relevant data was critical to ensuring the dashboard served its purpose effectively. The chosen metrics include:  
 - **Time Outstanding**: Tracks the average time a specimen remains outstanding to monitor lab progress.  
 - **Distribution of Outstanding Times**: Highlights the common timeframes for delayed specimens.  
@@ -11,7 +11,7 @@ Selecting relevant data was critical to ensuring the dashboard served its purpos
 
 Time outstanding was chosen as the key performance indicator (KPI) to pinpoint areas requiring improvement and enhance overall efficiency. Detailed analysis of specimen types and sub-specialities helps address challenges such as staffing levels, ultimately reducing turnaround times and improving service.  
 
-## 3 Layout/Data Hierarchy  
+## Layout/Data Hierarchy  
 The dashboard’s layout was refined to prioritize simplicity and ease of use. Key considerations included:  
 - **Textual Data at the Top**: Aligning with the "Z pattern" of eye scanning, key performance indicators (KPIs) are prominently displayed.  
 - **Critical Charts Placement**:  
@@ -21,7 +21,7 @@ The dashboard’s layout was refined to prioritize simplicity and ease of use. K
 
 This structure balances essential insights with clarity, ensuring a seamless user experience. The horizontal design supports both desktop viewing and larger management presentation screens.  
 
-## 4 Charts  
+## Charts  
 Each chart was carefully chosen to convey specific insights:  
 - **Timeline (Trendline)**: Tracks changes in specimen outstanding time over a specified period.  
 - **Histogram (Distribution of Times)**: Visualizes the most common timeframes for delayed specimens.  
@@ -30,13 +30,13 @@ Each chart was carefully chosen to convey specific insights:
 
 Initially, histogram bins displayed exact values, but this cluttered the appearance. Users can now hover over bins for precise data, maintaining clarity.  
 
-## 5 Interactive Design  
+## Interactive Design  
 Interactivity enhances usability, allowing users to:  
 - **Filter Data**: Isolate specific metrics across graphs for focused analysis.  
 - **Drill Down**: Access detailed information, such as patient cases or specimen sub-specialties, empowering users to take targeted actions.  
 For example, selecting the "Urgent" bin in the histogram reveals detailed specimen data, enabling timely intervention.  
 
-## 6 Colour Scheme  
+## Colour Scheme  
 The dashboard predominantly uses shades of **blue**, chosen for its neutral and professional tone, supplemented by light and dark grey for contrast. The timeline's average line is highlighted in **orange**, ensuring it stands out and draws attention to critical insights.  
 
 ---
