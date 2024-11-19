@@ -7,6 +7,9 @@ The Histology Laboratory faces a notable challenge with the absence of visual pe
 Design is critical, balancing key information with a clean, uncluttered appearance and interactive elements for deeper exploration (Malnik, 2022). 
 
 [For specific laboratory terms](glossary.md)
+
+<br>
+
 [For detailed design principles](design_principle.md)
 
 ## 1.1. Objectives
